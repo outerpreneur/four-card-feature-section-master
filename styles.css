@@ -102,7 +102,7 @@ figure {
 
 /* lower section-cards */
 
-.green-card {
+.column .green-card {
     display: flex;
     flex-direction: column;
     border: solid 1px hsl(234, 12%, 34%, 0.1);
